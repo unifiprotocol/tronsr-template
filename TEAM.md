@@ -1,14 +1,19 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Juliun Brabon
+Role: CEO
 
-## Team Member 1
+Name: Josh
+Role: Operations
 
-Name: [name]
-Role: [role]
+Name: Mike
+Role: Administration
 
-## Team Member 2
+Name: Steve
+Role: Business Development
 
-Name: [name]
-Role: [role]
+Name: Daniel
+Role: Development
+
+Name: Kerk
+Role: Smart Contract Development
