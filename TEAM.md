@@ -1,5 +1,3 @@
-## Founder
-
 Name: Juliun Brabon
 Role: CEO
 
